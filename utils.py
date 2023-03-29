@@ -60,7 +60,7 @@ def load_data(config_data, standardize=True):
 
 def get_logger(neptune=True):
     if neptune:
-        logger = NeptuneLogger(project='dennisfrauen/fair-policy')
+        logger = True
     else:
         logger = True
     return logger
