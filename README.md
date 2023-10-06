@@ -1,5 +1,9 @@
 ### Fair off-policy learning from observational data
 
+This repository contains the code for our paper "Fair Off-Policy Learning from Observational Data".
+
+![Plot Intuition](media/model_architecture.png)
+
 #### Project structure 
 - *data* contains the data generation files/ real-world data preprocessing
 - *experiments* contains experiment code
